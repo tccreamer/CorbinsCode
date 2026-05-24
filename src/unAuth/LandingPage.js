@@ -7,7 +7,7 @@ import Timestamp from "./timestampcomp/Timestamp";
 import Footer from "./components/Footer";
 import PlaylistCTA from "./components/PlaylistCTA";
 
-
+// Hey this is cool!
 const LandingPage = () => {
 
 
